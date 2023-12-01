@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Vicky Moorman	vicky.moorman@bravurasecurity.com	@notatwit
 
 # THANKS
 
