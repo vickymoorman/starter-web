@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ## Copyright
 
-2023 Bravura Security
+2023 Bravura Security. All rights reserved.
